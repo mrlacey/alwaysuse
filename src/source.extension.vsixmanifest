@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="AlwaysUse.60017ef2-d0e3-4d09-b5c6-abd02f2f49c7" Version="1.0" Language="en-US" Publisher="Matt Lacey" />
+        <Identity Id="AlwaysUse.60017ef2-d0e3-4d09-b5c6-abd02f2f49c7" Version="1.1" Language="en-US" Publisher="Matt Lacey" />
         <DisplayName>AlwaysUse</DisplayName>
         <Description xml:space="preserve">Automatically add using directives to open C# files.</Description>
+        <MoreInfo>https://github.com/mrlacey/alwaysuse</MoreInfo>
+        <License>LICENSE.txt</License>
     </Metadata>
     <Installation>
         <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[16.0, 17.0)" />
